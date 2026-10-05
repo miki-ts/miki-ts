@@ -9,4 +9,4 @@ I’m Mikiyas Tesfaye from Ethiopia. I design, edit, and develop digital experie
 * 💻 HTML, CSS, JS,php
 
 ## Examples of Work
-<img src="https://raw.githubusercontent.com/miki-ts/miki-ts/main/mockup-afrirobot-vercel-app%20(1).gif?reload=1" width="512">
+<img src="https://github.com/miki-ts/miki-ts/blob/main/mockup-afrirobot-vercel-app%20(2).gif" width="512">
