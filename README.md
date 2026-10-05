@@ -7,3 +7,6 @@ I’m Mikiyas Tesfaye from Ethiopia. I design, edit, and develop digital experie
 * ⚛ React
 * 📱 figma,linux
 * 💻 HTML, CSS, JS,php
+
+## Examples of Work
+<img src="https://github.com/miki-ts/miki-ts/blob/main/1.avif" width="512" >
